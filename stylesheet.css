@@ -1,0 +1,40 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 90%;
+    margin: auto;
+    line-height: 25px;
+}
+header {
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 600;
+    margin: 3rem auto 1rem;
+}
+.first_Section {
+    color: green;
+    border: 1px solid blueviolet;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1.5rem;
+    font-size: 14px;
+    font-weight: 700; 
+    margin: 4rem auto;
+}
+.Second_section {
+    color: red;
+    border: 4px dashed yellow;
+    border-radius: 0.6rem;
+    padding: 0.7rem 1.4rem;
+    margin-bottom: 4em;
+    font-size: 14px;
+    font-weight: 700;
+}
+.third_section {
+    color: blue;
+    border: 4px dotted purple;
+    border-radius: 0.6rem;
+    padding: 0.7rem 1.4rem;
+    margin-bottom: 2rem;
+    line-height: 28px;
+    font-size: 14px;
+    font-weight: 700;
+}
